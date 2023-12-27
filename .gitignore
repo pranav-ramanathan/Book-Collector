@@ -2,3 +2,10 @@
 /.env
 /__pycache__
 /Testing
+/Logs
+/Downloads
+/Books
+/Resources
+/build
+/dist
+```
